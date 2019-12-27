@@ -54,7 +54,7 @@ medium: antonvilyams
 # email: myemail@gmail.com
 
 authors:
-    johndoe:
+    anton:
         name: Anton Vilyams
         bio: iOS Software Engineer
         external-image: false
@@ -75,7 +75,7 @@ projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: false
-blog: false
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
