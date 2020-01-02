@@ -1,6 +1,6 @@
 # main text of home
 name: Anton Vilyams
-bio: Senior iOS Engineer @ <a class="link" href="https://brl.ru" target="_blank">BRLab</a><br>Moscow, Russia
+bio: Senior iOS Engineer @ <a class="link" href="https://brl.ru" style="text-decoration: none" target="_blank">BRLab</a><br>Moscow, Russia
 
 # twitter summary info
 description: A blog about technology and stuff related
