@@ -16,7 +16,7 @@ resume: false
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: http://antonvilyams.github.io
+url: https://antonvilyams.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -48,7 +48,7 @@ github: antonvilyams
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: antonvilyams
+# medium: antonvilyams
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 # email: myemail@gmail.com
@@ -56,7 +56,7 @@ medium: antonvilyams
 authors:
     anton:
         name: Anton Vilyams
-        bio: iOS Software Engineer
+        bio: Senior iOS Engineer
         external-image: false
         picture: indigo/assets/images/profile.jpg
         twitter: antonvilyams
