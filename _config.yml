@@ -14,7 +14,7 @@ picture: indigo/assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: indigo/assets/Anton%20Vilyams%20Senior%20iOS%20Engineer%20Resume.pdf
+resume-url: indigo/assets/Resume.pdf
 
 url: https://antonvilyams.github.io
 # your url: http://USERNAME.github.io
