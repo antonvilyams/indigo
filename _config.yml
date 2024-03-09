@@ -1,9 +1,9 @@
 # main text of home
 name: Anton Vilyams
-bio: Senior iOS Engineer @ <a class='link' href='https://bookmaker-ratings.com' target='_blank'>BRLab</a><br><br>Moscow, Russia
+bio: Senior iOS Engineer @ <a class='link' href='https://bookmaker-ratings.com' target='_blank'>BRLab</a>
 
 # twitter summary info
-description: iOS Team Lead and Senior iOS Engineer based in Moscow, Russia
+description: iOS Team Lead and Senior iOS Engineer
 
 # if it's an external image, update below for true
 # better with square images
